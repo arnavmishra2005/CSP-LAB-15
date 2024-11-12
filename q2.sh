@@ -8,7 +8,7 @@ fi
  
 input_file=$1
  
-output_file="heart_output.tex"
+output_file="q2.tex"
 echo "\documentclass{article}" > $output_file
 echo "\usepackage{geometry}" >> $output_file
 echo "\geometry{a4paper, margin=1in}" >> $output_file
